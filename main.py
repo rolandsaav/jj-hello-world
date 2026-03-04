@@ -5,6 +5,7 @@ def print_function(message: str):
     print(message)
 
 
+# the meat of our program
 def main():
     print_function("Hello world")
 
